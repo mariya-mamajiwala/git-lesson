@@ -2,5 +2,5 @@
 + [x] eggs
 + [x] milk
 + [x] chicken stock cubes
-+ [x] chillies
++ [ ] chillies
 + [ ] spinach
