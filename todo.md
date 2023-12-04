@@ -1,4 +1,6 @@
 # My to do list
-+ [ ] eggs
-+ [ ] milk
-+ [ ] chicken stock cubes
++ [x] eggs
++ [x] milk
++ [x] chicken stock cubes
++ [ ] chillies
++ [ ] spinach
